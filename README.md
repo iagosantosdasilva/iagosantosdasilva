@@ -1,16 +1,33 @@
-## Hi there 👋
+# Olá, eu sou o Iago! 👋
 
-<!--
-**iagosantosdasilva/iagosantosdasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 
-Here are some ideas to get you started:
+🐍 Atualmente estudando Python e desenvolvimento Backend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Construindo projetos e aprendendo um pouco mais a cada dia.
+
+## 🚀 Sobre mim
+
+- 🎓 Graduando em ADS
+- 🐍 Estudando Python
+- 🌐 Interessado em APIs e desenvolvimento Backend
+- 🎯 Meu objetivo é me tornar desenvolvedor Backend
+
+## 🛠️ Tecnologias
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" />
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iagosantosdasilva&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagosantosdasilva&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+<div align="center">
+  💻 Sempre aprendendo e evoluindo na programação.
+</div>
