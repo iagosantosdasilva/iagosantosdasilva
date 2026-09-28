@@ -15,23 +15,14 @@
 
 ## 🛠️ Tecnologias
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" alt="Tecnologias que utilizo" />
-</p>
+![Tecnologias](https://skillicons.dev/icons?i=python,git,github,vscode)
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/iagosantosdasilva">
-    <img src="https://github-readme-stats.vercel.app/api?username=iagosantosdasilva&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub" />
-  </a>
-  <a href="https://github.com/iagosantosdasilva">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagosantosdasilva&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens de Programação" />
-  </a>
-</p>
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=iagosantosdasilva&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)
+
+![Linguagens de Programação](https://github-readme-stats.vercel.app/api/top-langs/?username=iagosantosdasilva&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-<p align="center">
-  💻 Sempre aprendendo e evoluindo na programação.
-</p>
+💻 Sempre aprendendo e evoluindo na programação.
